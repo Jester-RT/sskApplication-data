@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-07-05T08:45:28.016Z",
+  "generatedAt": "2026-07-06T10:04:39.914Z",
   "events": [
+    {
+      "id": "6a4b4b4432f1661b54df3b4e",
+      "title": "Grading Practice",
+      "excerpt": "A free practice session where students that are participating in the upcoming grading event are welcome to come and take advantage of some additional training hours. Our black belt team will be on hand to provide feedback and assistance to make improvements to techniques and kata, and answer any questions you may have about the grading itself.",
+      "description": [
+        "For any students participating in the upcoming grading event, you are welcome to attend this practice session where our black belt team will be on hand to help with kata, techniques and provide feedback.",
+        "#block-392aa9f7851f4aa2bb6b { --stroke-style: none;--stroke-thickness: 6px;",
+        "--tweak-text-block-background-color: initial;",
+        "}",
+        "#block-392aa9f7851f4aa2bb6b .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%; --tweak-text-block-padding: initial; }",
+        "#block-392aa9f7851f4aa2bb6b { mix-blend-mode: var(--tweak-text-block-blend ); border-radius: var(--tweak-text-block-radius); }",
+        "#block-392aa9f7851f4aa2bb6b { --tweak-text-block-radius: 0px 0px 0px 0px; }",
+        "#block-392aa9f7851f4aa2bb6b { }",
+        "@media screen and (max-width: 767px) {",
+        "#block-392aa9f7851f4aa2bb6b { } } @media screen and (max-width: 767px) { #block-392aa9f7851f4aa2bb6b .sqs-html-content { } } @media screen and (max-width: 767px) {",
+        "}"
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1718262914763-II9U9RHDNZZL00UI72LC/event-children-training-01.jpg",
+      "startDate": "2026-07-07T18:30:00.176Z",
+      "endDate": "2026-07-07T20:30:00.176Z",
+      "location": {
+        "title": "Stafford Rangers Football Club",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/6yyypzaovsd5chyfa9wlnw8alsqlh3-kl74s"
+    },
     {
       "id": "696a0eb85b083377a563c9d2",
       "title": "Children and Beginners",
