@@ -1,4 +1,383 @@
 {
-  "generatedAt": "2026-08-01T08:10:10.572Z",
-  "events": []
+  "generatedAt": "2026-08-02T08:11:55.228Z",
+  "events": [
+    {
+      "id": "6a6da991820fb006a712fcc5",
+      "title": "Children and Beginners ",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/0d4c41b1-429d-4ec5-bd77-7953e062cffe/event-children-training-06.jpg",
+      "startDate": "2026-08-05T17:30:00.734Z",
+      "endDate": "2026-08-05T18:30:00.734Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-prhdw-7cncs-hxhkx-k3x3c-7sbhl-ww7lh-zk28h-2fl4t-dk94e-z5krk"
+    },
+    {
+      "id": "6a6daa404c4e5263aaeed16b",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1736782641872-EYOFKBGAYY41KTY98YW3/event-adult-training-09.jpg",
+      "startDate": "2026-08-05T18:30:00.036Z",
+      "endDate": "2026-08-05T20:00:00.036Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-eaapk-g2rcj-k8yyn-d6j9l-k729p-stt86-8d6xt-wgd8s-bzpmx"
+    },
+    {
+      "id": "6a6dabb8a9b5546fa233fb74",
+      "title": "Children and Beginners",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+        "Training for the upcoming Grading will focus on:",
+        "White – Kata Heian Shodan and Heian Nidan"
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/0d4c41b1-429d-4ec5-bd77-7953e062cffe/event-children-training-06.jpg",
+      "startDate": "2026-08-12T17:30:00.519Z",
+      "endDate": "2026-08-12T18:30:00.519Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-prhdw-7cncs-hxhkx-k3x3c-7sbhl-sptja-4naj4-tse9f-rpgxe-xct5y-3ljj8"
+    },
+    {
+      "id": "6a6dab572d2ead56b2c2f582",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order.",
+        "Training for the upcoming Grading will focus on:",
+        "Yellow – Kata Heian Sandan and Heian Yondan",
+        "Orange – Kata Heian Yondan and Heian Godan",
+        "Green – Kata Tekki Shodan and Jitte",
+        "Blue – Kata Tekki Nidan and Empi",
+        "Brown – Kata Tekki Nidan and Bassai Dai"
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1736779917622-T1E3RHE7EXB8BDNQPYC4/event-adult-training-08.jpg",
+      "startDate": "2026-08-12T18:30:00.820Z",
+      "endDate": "2026-08-12T20:00:00.820Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-eaapk-g2rcj-kmye7-txbgd-mh8y5-tazlm-cz5wg-rhl2f-nrrr3-37yc9"
+    },
+    {
+      "id": "6a6dadf11604fb29b10d6e2b",
+      "title": "Children and Beginners",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+        "This will be a Free Practice training session for the upcoming Grading."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1731577571326-HN2XMJEIEIDQO7GRZFKX/event-children-training-04.png",
+      "startDate": "2026-08-19T17:30:00.188Z",
+      "endDate": "2026-08-19T18:30:00.188Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-5f53h-4xdbt-77cwh-tz6ye-cjm4k"
+    },
+    {
+      "id": "6a6dadf7d3b8b163807bc1ec",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order.",
+        "This will be a Free Practice training session for the upcoming Grading."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/a581eda0-c88f-45e6-ae41-fb4f92190486/sweep+webpage.png",
+      "startDate": "2026-08-19T18:30:00.011Z",
+      "endDate": "2026-08-19T20:00:00.011Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-eaapk-a59j2-9ybmf-dknfz-dx5gl-lzmzh-n5j3j"
+    },
+    {
+      "id": "6a6daea15aa347740b5e9b74",
+      "title": "Children and Beginners",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1731577734268-NPPUNQ0DQLB65GDIW29J/event-children-training-07.jpg",
+      "startDate": "2026-08-26T17:30:00.377Z",
+      "endDate": "2026-08-26T18:30:00.377Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-prhdw-7cncs-hxhkx-k3x3c-gfkm7-ydwnm-353k5-y92k7-bbwff"
+    },
+    {
+      "id": "6a6dc5a0d4e4313fe9295eaf",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order.",
+        "Training for the upcoming Grading will focus on:",
+        "Yellow – Kata Heian Sandan and Heian Yondan",
+        "Orange – Kata Heian Yondan and Heian Godan",
+        "Green – Kata Tekki Shodan and Jitte",
+        "Blue – Kata Tekki Nidan and Empi",
+        "Brown – Kata Tekki Nidan and Bassai Dai"
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1736779917622-T1E3RHE7EXB8BDNQPYC4/event-adult-training-08.jpg",
+      "startDate": "2026-08-26T18:30:00.820Z",
+      "endDate": "2026-08-26T20:00:00.820Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-eaapk-g2rcj-kmye7-txbgd-mh8y5-tazlm-cz5wg-rhl2f-nrrr3-8wayn"
+    },
+    {
+      "id": "6a6dc5ea5aa347740b625788",
+      "title": "Children and Beginners",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/0d4c41b1-429d-4ec5-bd77-7953e062cffe/event-children-training-06.jpg",
+      "startDate": "2026-09-02T17:30:00.734Z",
+      "endDate": "2026-09-02T18:30:00.734Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-prhdw-7cncs-hxhkx-k3x3c-7sbhl-ww7lh-zk28h-2fl4t-dk94e-h2nbp"
+    },
+    {
+      "id": "6a6dc5e1c3e965138a58bafc",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1736782641872-EYOFKBGAYY41KTY98YW3/event-adult-training-09.jpg",
+      "startDate": "2026-09-02T18:30:00.036Z",
+      "endDate": "2026-09-02T20:00:00.036Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-eaapk-g2rcj-k8yyn-d6j9l-k729p-stt86-8d6xt-wgd8s-6ljff"
+    },
+    {
+      "id": "6a6dc5ede90d030a37e0dc02",
+      "title": "Children and Beginners",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+        "Training for the upcoming Grading will focus on:",
+        "White – Kata Heian Shodan and Heian Nidan"
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/0d4c41b1-429d-4ec5-bd77-7953e062cffe/event-children-training-06.jpg",
+      "startDate": "2026-09-09T17:30:00.519Z",
+      "endDate": "2026-09-09T18:30:00.519Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-prhdw-7cncs-hxhkx-k3x3c-7sbhl-sptja-4naj4-tse9f-rpgxe-xct5y-dnkla"
+    },
+    {
+      "id": "6a6dc5e47174d27dd0676537",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1736782641872-EYOFKBGAYY41KTY98YW3/event-adult-training-09.jpg",
+      "startDate": "2026-09-09T18:30:00.036Z",
+      "endDate": "2026-09-09T20:00:00.036Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-eaapk-g2rcj-k8yyn-d6j9l-k729p-stt86-8d6xt-wgd8s-aayn5"
+    },
+    {
+      "id": "6a6dc6f632067566f71364d9",
+      "title": "Children and Beginners",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1731577571326-HN2XMJEIEIDQO7GRZFKX/event-children-training-04.png",
+      "startDate": "2026-09-16T17:30:00.527Z",
+      "endDate": "2026-09-16T18:30:00.527Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-5f53h-4xdbt-77cwh-mrkzc"
+    },
+    {
+      "id": "6a6daea9a9b5546fa2346ee0",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1736765251273-89U3QWFEXKYU8LUTRNYY/event-adult-training-04.jpg",
+      "startDate": "2026-09-16T18:30:00.971Z",
+      "endDate": "2026-09-16T20:00:00.971Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-c6tcm-89tm8-ztazs"
+    },
+    {
+      "id": "6a6dc7dd84f37750b3c64b6b",
+      "title": "Children and Beginners",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1731577734268-NPPUNQ0DQLB65GDIW29J/event-children-training-07.jpg",
+      "startDate": "2026-09-23T17:30:00.369Z",
+      "endDate": "2026-09-23T18:30:00.369Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-prhdw-7cncs-hxhkx-k3x3c-gfkm7-ydwnm-353k5-pyfm9-za6ja"
+    },
+    {
+      "id": "6a6dc6f9efc7155acbf7d988",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/a581eda0-c88f-45e6-ae41-fb4f92190486/sweep+webpage.png",
+      "startDate": "2026-09-23T18:30:00.503Z",
+      "endDate": "2026-09-23T20:00:00.503Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-eaapk-a59j2-9ybmf-dknfz-dx5gl-742y8"
+    },
+    {
+      "id": "6a6dc8a884035f0424be151d",
+      "title": "Children and Beginners",
+      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
+      "description": [
+        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
+        "Grades and Adults are welcome in the beginners session.",
+        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1731577571326-HN2XMJEIEIDQO7GRZFKX/event-children-training-04.png",
+      "startDate": "2026-09-30T17:30:00.535Z",
+      "endDate": "2026-09-30T18:30:00.535Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-5f53h-4xdbt-89c2l"
+    },
+    {
+      "id": "6a6dc6efefc7155acbf7d966",
+      "title": "Grades and Adults",
+      "excerpt": "Training for those at 9th Kyu (Yellow Belt) and above. This session could include any aspect of Karate (see our training materials to see the different karate techniques and applications). As we approach our bi-annual grading events you will find classes focused on preparing those looking to take part. Bring a water bottle to rehydrate during the mid-session break. Those below 9th Kyu (Yellow Belt) wishing to join this session should talk to an instructor. See Our Ranks for more information on belt order.",
+      "description": [
+        "Training for those at 5th Kyu (Yellow Belt) and above.",
+        "This session could include any aspect of Karate (see the training materials to see the different karate techniques and applications).",
+        "Bring a water bottle to rehydrate during the mid-session break.",
+        "Those below 5th Kyu (Yellow Belt) wishing to join this session should talk to an instructor.",
+        "See Our Ranks for more information on belt order."
+      ],
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/a581eda0-c88f-45e6-ae41-fb4f92190486/sweep+webpage.png",
+      "startDate": "2026-09-30T18:30:00.503Z",
+      "endDate": "2026-09-30T20:00:00.503Z",
+      "location": {
+        "title": "Stafford Shotokan Karate - Stafford Rangers",
+        "line1": "Astonfields Road",
+        "line2": "Stafford, England, ST16 3UF"
+      },
+      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-two-asanr-ewcjf-6zkll-4xmyf-55r42-az4zt-rtsgb-bxz75-2yglx-e2fnl-4jnwk-eaapk-a59j2-9ybmf-dknfz-dx5gl-rtd3f"
+    }
+  ]
 }
