@@ -1,23 +1,6 @@
 {
-  "generatedAt": "2026-11-10T14:06:20.944Z",
+  "generatedAt": "2026-11-11T13:22:59.723Z",
   "events": [
-    {
-      "id": "6aef05ee02b24b2679a53dd3",
-      "title": "Grading Practice",
-      "excerpt": "A free practice session where students that are participating in the upcoming grading event are welcome to come and take advantage of some additional training hours. Our black belt team will be on hand to provide feedback and assistance to make improvements to techniques and kata, and answer any questions you may have about the grading itself.",
-      "description": [
-        "For any students participating in the upcoming grading event, you are welcome to attend this practice session where our black belt team will be on hand to help with kata, techniques and provide feedback."
-      ],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1718262914763-II9U9RHDNZZL00UI72LC/event-children-training-01.jpg",
-      "startDate": "2026-11-10T19:30:00.176Z",
-      "endDate": "2026-11-10T21:00:00.176Z",
-      "location": {
-        "title": "Stafford Rangers Football Club",
-        "line1": "Astonfields Road",
-        "line2": "Stafford, England, ST16 3UF"
-      },
-      "url": "https://www.staffordshotokankarate.co.uk/calendar/6yyypzaovsd5chyfa9wlnw8alsqlh3-kl74s-b5372"
-    },
     {
       "id": "6aea57c98032a24d6fb25580",
       "title": "Children and Beginners",
