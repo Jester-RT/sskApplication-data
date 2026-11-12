@@ -1,44 +1,6 @@
 {
-  "generatedAt": "2026-11-11T13:22:59.723Z",
+  "generatedAt": "2026-11-12T14:27:57.923Z",
   "events": [
-    {
-      "id": "6aea57c98032a24d6fb25580",
-      "title": "Children and Beginners",
-      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
-      "description": [
-        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
-        "Grades and Adults are welcome in the beginners session.",
-        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information."
-      ],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1731577802019-CFVHY1WRPBCFZP8YWW5N/event-children-training-04.png",
-      "startDate": "2026-11-11T18:30:00.734Z",
-      "endDate": "2026-11-11T19:30:00.734Z",
-      "location": {
-        "title": "Stafford Shotokan Karate - Stafford Rangers",
-        "line1": "Astonfields Road",
-        "line2": "Stafford, England, ST16 3UF"
-      },
-      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-prhdw-7cncs-hxhkx-k3x3c-7sbhl-ww7lh-zk28h-2fl4t-dk94e-z5krk-2ms76-pp4jw-dwdn5"
-    },
-    {
-      "id": "6aea58653c9b716b24d3cb10",
-      "title": "Grades and Adults",
-      "excerpt": "It is a great introduction to Karate, and training up to 5th Kyu (Yellow Belt). Grades and Adults are welcome in the beginners session. New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information.",
-      "description": [
-        "A great introduction to Karate, and training up to 5th Kyu (Yellow Belt).",
-        "Grades and Adults are welcome in the beginners session.",
-        "New to Karate? Wondering what to wear? Read the Frequently Asked Questions for more information."
-      ],
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/625d9396e1254f12dd7ca848/1736777283863-RSCMCDMY26Z0SO2MUQOF/event-adult-training-05.jpg",
-      "startDate": "2026-11-11T19:30:00.734Z",
-      "endDate": "2026-11-11T21:00:00.734Z",
-      "location": {
-        "title": "Stafford Shotokan Karate - Stafford Rangers",
-        "line1": "Astonfields Road",
-        "line2": "Stafford, England, ST16 3UF"
-      },
-      "url": "https://www.staffordshotokankarate.co.uk/calendar/event-one-4rdkt-dmsas-pxazw-lmmjk-7tn6b-dfzfl-zd9d9-l98py-cgwjr-ggpcx-p8333-kxn6t-k3l6c-prhdw-7cncs-hxhkx-k3x3c-7sbhl-ww7lh-zk28h-2fl4t-dk94e-z5krk-2ms76-pp4jw-dwdn5-j4nyt"
-    },
     {
       "id": "6aef05318e4df903498a1f56",
       "title": "Children and Beginners",
